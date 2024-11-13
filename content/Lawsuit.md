@@ -18,7 +18,7 @@ Lawsuit involves two parties
 	- either natural or legal persons
 
 
-![[500 Project/Law/Week 1#^d31e7e|Week 1]]
+![[Legal Terms#^d31e7e|Week 1]]
 
 |                | sues                 | is sued            |
 | -------------- | -------------------- | ------------------ |

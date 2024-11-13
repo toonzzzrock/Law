@@ -2,7 +2,8 @@
 title: Technology
 created_date: 2024-09-17
 tags: 
-relates: 
+relates:
+  - "[[Thai Computer-related Crime Act]]"
 source: 
 status: To_process
 Note_types:

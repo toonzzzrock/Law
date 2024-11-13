@@ -18,7 +18,7 @@ Note_types:
 3. When does a person become Sui Juris?
 	  Then completion of 20 years of age. Or Legal Marriage (17 years old at least)
 4. What is the most serious criminal punishment among these choices?
-![[Substantive Law and Procedural Law#^24ed97]]
+![[Criminal Law Code of Thailand#Punishments Criminal Code]]
 
 
 1. Who is juristic person?
@@ -38,6 +38,7 @@ Note_types:
 9. Litigant
     ![[Lawsuit#Lawsuit]]
 10. Wrongful act is defined in which law?
-    ![[Substantive Law and Procedural Law#Wrongful Act (Tort) The Civil and Commercial Law Code of Thailand]]
+    ![[The Civil and Commercial Law Code of Thailand#Wrongful Act (Tort) The Civil and Commercial Law Code of Thailand]]
+
 11. Ethical define good practices that people in the same society or specific
    Ethical Breach is either legal or illegal.
