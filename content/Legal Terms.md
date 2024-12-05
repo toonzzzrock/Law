@@ -13,6 +13,10 @@ Note_types:
 
 # Legal Terms
 
+> [!important] incompetent vs incapable
+>  Incompetent: no right to perform the task
+>  Incapable: mentally incapable (_retarded_)
+
 Legal Terms:
 - **Contract: สัญญา**; An agreement between two or more parties that creates an obligation to do or not to do a particular thing.
 - **Offence: ความผิด**; An illegal act; a violation of public law.

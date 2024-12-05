@@ -79,7 +79,7 @@ Actions against another person’s copyrighted work are not considered infringem
 8. Use in exams as part of questions and answers.
 ### Section 35 (exception):
 
-ertain actions involving a copyrighted computer program are not considered infringement if they are non-profit and comply with Section 32:
+certain actions involving a copyrighted computer program are not considered infringement if they are non-profit and comply with Section 32:
 
 1. Research or study.
 2. Use for the benefit of the program's lawful owner.

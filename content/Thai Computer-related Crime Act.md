@@ -45,8 +45,12 @@ Note_types:
 ## Section 7:
 - illegally accesses to a computer data (like section 5 but data) that likely to causes damage to another person shall be liable to an imprisonment for a term not exceeding two years, a fine not exceeding 40,000 Baht or both.
 
+## Section 8:
+- Whoever illegally, by any electronic means, an interception of computer data communication and not for the benefit of the public or is not available publicly
+- shall be liable to an imprisonment for a term not exceeding three years, a fine not exceeding 60,000 Baht or both.
 ## Section 9:
-- illegally acts in a manner that cause damage, impairment, deletion, alteration, or addition of computer data shall be liable to an imprisonment for a term not exceeding five years, a fine not exceeding 100,000 Baht or both.
+- illegally acts in a manner that cause damage, impairment, deletion, alteration, or addition of computer data 
+- shall be liable to an imprisonment for a term not exceeding five years, a fine not exceeding 100,000 Baht or both.
 
 ### Coverage:
 - changing data
@@ -60,7 +64,7 @@ Note_types:
 ### Paragraph 1
 A person committing any of the following acts can face up to five years in prison, a fine of up to 100,000 Baht, or both:
 
-1. Dishonestly or deceptively entering distorted or false data into a computer system in a way that may harm the public, excluding defamation.
+1. Dishonestly or deceptively entering distorted or false data into a computer system in a way that may harm the public, excluding [[Criminal Law Code of Thailand#Defamation|defamation]].
 2. Inputting false data likely to harm national security, public safety, Thailand's economy, critical infrastructure, or cause public panic.
 3. Entering data related to national security or terrorism.
 4. Uploading obscene data that the public can access.

@@ -25,18 +25,49 @@
 
 ## Wrongful Act (Tort): The Civil and Commercial Law Code of Thailand
 
-^dabc00
-
-### Section 420:
-- A person who, **intentionally or negligently**, causes <span style="background:#fff88f">injury</span> to the life, body, health, liberty, property or any right of <span style="background:#fff88f">another person</span>, is said to commit a <span style="background:#fff88f">wrongful act</span> and is liable to <span style="background:#fff88f">compensate</span> for the damage arising therefrom.
 ### Section 2:
 - No law shall be **retroactive** unless it is so provided by the law.
 
+^dabc00
+### Section 420:
+- A person who, **willfully or negligently, unlawfully**, causes <span style="background:#fff88f">injury</span> to the life, body, health, liberty, property or any right of <span style="background:#fff88f">another person</span>, is said to commit a <span style="background:#fff88f">wrongful act</span> and is liable to <span style="background:#fff88f">compensate</span> for the damage arising therefrom.
+
+#### Components of Wrongful Act
+- A person willfully or negligently commits an act
+- Unlawfully injures another person
+- Another person is injured, either to his/her
+	- Life
+	- Body
+	- Health
+	- Liberty
+	- Property
+	- Any right
+- The damage occurs as a result f the wrongful act committed (causation)
+
+### Section 425:
+- An employer is ==jointly liable== with his employee for the consequences of a wrongful act committed by such employee ==in the course of his employment==.
+
+### Section 426:
+- An employer who has made compensation to a third person for a wrongful act committed by his employee is entitled to reimbursement from such employee.
+
+### Section 429: Incapacitated
+- A person, even though incapacitated, on account of minority or unsoundness of mind is liable for a wrongful act committed by him, The parents, or his guardian is jointly liable with him, unless they can prove of proper supervision.
+
+### Section 433: Animal
+- If damage is caused by an animal, the owner, or who undertakes to keep the animal on behalf of the owner, is bound to compensate the injured party.
+### Section 448: Prescription (Statute of Limitation)
+
+> [!tldr]
+> Time limit for a claim for damages arising from a wrongful act:
+> - **1 year**: Once you find out what happened and who is responsible, you have **one year** to file a claim.
+> - **10 years**: No matter what, you cannot file a claim more than **10 years** after the harmful act happened.
+
+- The claim for damages arising from a wrongful act is barred by prescription
+	- after one year from the day the wrongful act and person bound to make compensation become known to the injured party.
+	- 10 years from the day when the wrongful act was committed.
+- Except when criminal law provides a longer period.
 ## Personality (Natural Person): The Civil and Commercial Law Code of Thailand
 
-^cdef58
-
-[[Civil Law and Criminal Law#Civil Law]]
 ### Section 15:
 - Personality begins with the full completion of birth as a living child and ends with death.
 
@@ -84,16 +115,16 @@
 ### Section 7: Legal effect and enforcement
 Information shall not be denied legal effect and enforceability solely on the ground that it is in the form of a data message.
 
-### Secttion 13:
+### Section 13:
 An offer or acceptance in entering into a contract may be expressed by means of a data message. A contract shall not be denied legal effect solely on the grounds that such offer or acceptance is made in the form of a data message.
 
-### Secttion 14:
+### Section 14:
 As between the originator and the addressee of a data message, a declaration of will or notice may be made in the form of a data message.
 
-### Secttion 22:
+### Section 22:
 The dispatch of a data message is deemed to occur when such data message enters an information system outside the control of the originator.
 
-### Secttion 23:
+### Section 23:
 The receipt of a data message is deemed to occur from the time when such data message enters an information system of the addressee.
 
 However, if data message is sent to an information system of the addressee that is not the designated information system, it shall be deemed that the receipt of a data message occurs at the time when the data message is retrieved from that information system.

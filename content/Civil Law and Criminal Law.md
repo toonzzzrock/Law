@@ -38,13 +38,11 @@ Note_types:
 ```
 - Full completion = birth (out of womb)
 
-![[Substantive Law and Procedural Law#Personality (Natural Person) The Civil and Commercial Law Code of Thailand]]
-
+![[The Civil and Commercial Law Code of Thailand#Personality (Natural Person) The Civil and Commercial Law Code of Thailand]]
 
 ### Juristic Person
 
-![[Substantive Law and Procedural Law#Juristic (legal) person The Civil and Commercial Law Code of Thailand]]
-
+![[The Civil and Commercial Law Code of Thailand#Section 65]]
 ## Criminal Law Code
 - Offences
 - Punishments
@@ -53,3 +51,5 @@ Note_types:
 1. General Provisions: definition
 2. Specific offences: Offences relating to counterfeit and alteration, offences against liberty and reputation…
 3. Petty Offences: offence which shall be punished by imprisonment not over one month or fine not exceed ten thousand Baht, or both.
+
+

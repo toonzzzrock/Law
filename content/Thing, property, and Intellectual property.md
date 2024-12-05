@@ -20,3 +20,4 @@ Note_types:
 	- to protect the creator, author, or inventor of an intangible creation.
 	- Protection of incentive-innovation-reward cycle; innovation which benefit society as a whole should be encouraged and the creator should be rewarded.
 	- such as [[copyright]], [[Patent]], [[Trademark]], and trade secrets.
+	
