@@ -1,6 +1,6 @@
 ---
-title: Welcome to Law101
+title: Welcome to My Obsidian
 ---
-This is where to begin
+This are where to begin with
 - Law: [[Week 1]]
 - Linear Algeba: [[Group theory]]
